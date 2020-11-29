@@ -7,6 +7,7 @@ GET /_cluster/health
 
 ## Listing the cluster's [nodes](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html)
 ```
+GET /_cat
 GET /_cat/nodes?v
 ```
 
