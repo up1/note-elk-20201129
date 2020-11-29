@@ -22,7 +22,7 @@ GET /_cat/nodes?v
 * t = transform node
 * w = warm node
 * v = voting-only node
-* - = coordinating node only
+* `-` = coordinating node only
 
 ## Listing the cluster's indices
 ```
